@@ -27,6 +27,7 @@
 
 .formacao-texto strong {
   color: #ffff;
+
 }
 
 .faculdade-bacharel {
@@ -151,7 +152,7 @@
 }
 .formacao .subtitulo {
   font-size: 3rem;
-  max-width: 8ch;
+  max-width: 9ch;
 }
 }
 
